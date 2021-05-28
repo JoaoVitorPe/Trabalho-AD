@@ -1,0 +1,12 @@
+filmes = ['Senhor dos Anais', 'Creed', 'Lilo & Stitch', 'Shrek 3', 'Invocação do mal']
+generos_filmes = ['Aventura', 'Esporte', 'Animação', 'Animação', 'Terror']
+classificacao_indicativa = ['12', '12', 'Livre', 'Livre', '14']
+ano_lancamento = ['2001', '2015', '2002', '2007', '2013']
+
+print('Estas são algumas indicações de filmes:', '\n', filmes, '\n')
+print('Estas são os gêneros dos filmes indicados: ', '\n', generos_filmes, '\n')
+print('Estas são as classificações indicativas dos filmes, em relação a faixa etária: ', '\n', classificacao_indicativa, '\n')
+print('Estas são as datas de lançamentos dos filmes: ', '\n', ano_lancamento, '\n')
+
+#Membros da equipe: Alex Lucas, Arthur Vinicius, João Marcelo c., João Vitor Pê, Samuel Lemos;
+#Turma: 3ºAno C.
